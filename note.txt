@@ -1,0 +1,4 @@
+Do not edit the following lines in web.html:
+5,6,7,8,9,24
+Do not be alerted by the red colour of the <center> and </center> in web.html, they are designedd to look that way.
+

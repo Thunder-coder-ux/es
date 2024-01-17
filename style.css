@@ -1,0 +1,28 @@
+#C{
+    color: blue;
+    font-size: 40px;
+    border: 2px dashed darkolivegreen;
+    max-width: 500px;
+    background-color: blanchedalmond;
+    max-height: 200px;
+}
+
+#A{
+    font-size: 20px;
+    border: 5px dotted black;
+    background-color: forestgreen;
+    color: black;
+}
+
+#B{
+    font-size: 30px;
+    border: 3px azure;
+}
+
+body{
+    background-color: crimson;
+}
+
+h3{
+    color: cornflowerblue;
+}
